@@ -1,0 +1,9 @@
+# Created at 2023-02-28T23:40:55.228
+'\\wsl.localhost\Ubuntu-20.04\home\lorephian\hello-docker'
+
+# Created at 2023-02-28T23:40:55.232
+CMD.EXE foi iniciado tendo o caminho acima como pasta atual.
+
+# Created at 2023-02-28T23:40:55.235
+N�o h� suporte para caminhos UNC. Padronizando para pasta do Windows.
+
